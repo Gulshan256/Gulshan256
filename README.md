@@ -1,4 +1,5 @@
 # 💫 About Me:
+👋 **Hi, I'm Gulshan Kumar!** <br> I'm a Software Developer and AI Enthusiast. I'm passionate about creating AI and cloud-based solutions. I love to learn and explore new technologies.
 🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>AIML projects<br><br>🌱 **I’m currently learning:**  <br>Advanced Golang.<br><br>💬 **Ask me about:**  <br>Python, Django, Flask, Fastapi, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating AI.
 
 
@@ -28,17 +29,3 @@
 
 # 📈 My Stack Overflow Activity:
 [![Gulshan's Stack Overflow](https://github-readme-stackoverflow.vercel.app/?userID=18354253)](https://stackoverflow.com/users/18354253/gulshan)
-
- <!---
-- 👋 Hi, I’m @Gulshan
-- 👀 I’m interested in AIML
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on AIML project
-
-
-📫 How to reach me Linkdin - https://www.linkedin.com/in/gulshan-kumar🤖📈🐍-73b055233
-📫 How to reach me Email - kumargk887@gmail.com
-
-Gulshan256/Gulshan256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
